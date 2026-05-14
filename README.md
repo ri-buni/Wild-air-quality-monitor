@@ -1,4 +1,4 @@
-# wild-air-quality-monitor
+# Wild-air-quality-monitor
 An air quality monitor I've decided to make because of how bad the air in my city can be sometimes.
 
 # CAD
