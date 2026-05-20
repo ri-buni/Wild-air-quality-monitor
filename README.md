@@ -16,6 +16,9 @@ Schematic:
 PCB:
 
 
+# Firmware
+
+Made by Claude Code
 
 # BOM
 
