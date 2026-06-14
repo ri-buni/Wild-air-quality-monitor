@@ -22,7 +22,7 @@ PCB:
 
 Made by Claude Code, display looks like this:
 
-<img width="492" height="249" alt="Screenshot (23) (1)" src="https://github.com/user-attachments/assets/a07ddd78-dcef-4ce7-970f-3d7f6d41345b" />
+<img width="258" height="125" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/0ae3b5cb-2c84-48f2-bd27-37f51f2a9ee9" />
 
 # BOM
 
