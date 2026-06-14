@@ -18,9 +18,9 @@ PCB:
 
 <img width="898" height="792" alt="anydesk00010" src="https://github.com/user-attachments/assets/f3be5db6-fd33-4cb8-96dd-c66859a83456" />
 
-# Firmware
+# Firmware was made by Claude Code
 
-Made by Claude Code, display looks like this:
+Display looks like this:
 
 <img width="258" height="125" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/0ae3b5cb-2c84-48f2-bd27-37f51f2a9ee9" />
 
