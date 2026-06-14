@@ -1,5 +1,6 @@
 # Wild-air-quality-monitor
 An air quality monitor I've decided to make because of how bad the air in my city can be sometimes.
+It has sht41, sgp40, scd41, PMS5003 as sensors for temperature, humidity, VOC CO2 and PM, 2"42 display and esp32 devkitc
 
 # CAD
 Made in Fusion360.
@@ -19,7 +20,9 @@ PCB:
 
 # Firmware
 
-Made by Claude Code
+Made by Claude Code, display looks like this:
+
+<img width="492" height="249" alt="Screenshot (23) (1)" src="https://github.com/user-attachments/assets/a07ddd78-dcef-4ce7-970f-3d7f6d41345b" />
 
 # BOM
 
