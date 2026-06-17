@@ -36,6 +36,8 @@ Display looks like this:
 - [TP4056 battery charger](https://aliexpress.ru/item/32453058256.html?spm=a2g2w.cart.cart_split.2.233e4aa6X9uCmK&sku_id=12000052763412620) ~0.5$
 - [PMS5003](https://aliexpress.ru/item/32772775425.html?sku_id=12000027208101193&spm=a2g2w.productlist.search_results.0.38b27b89w3cIQV) ~13$
 
+ItemDescriptionQtyUnit PriceLine TotalSourcePCBCustom 2-layer PCB1$12.00$12.00JLCPCBESP32-S3 DevKitCMCU dev board1$5.00$5.00AliExpress2.42" OLED128x64 SSD1309, I2C/SPI1$12.00$12.00AliExpressSGP40VOC gas sensor module1$5.00$5.00AliExpressSCD41CO2 + temp/humidity sensor1$14.00$14.00AliExpressSHT41Temp/humidity sensor1$1.50$1.50AliExpressLi-ion battery500mAh 3.7V (502535)1$5.10$5.10AliExpressTP4056Li-ion charger module1$0.50$0.50AliExpressPMS5003Laser PM2.5 sensor1$13.20$13.20AliExpressGRAND TOTAL$68.30
+
 # Details:
 
 I've used this tutorial as a reference: https://howtomechatronics.com/projects/diy-air-quality-monitor-pm2-5-co2-voc-ozone-temp-hum-arduino-meter/
