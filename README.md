@@ -36,6 +36,19 @@ Display looks like this:
 - [TP4056 battery charger](https://aliexpress.ru/item/32453058256.html?spm=a2g2w.cart.cart_split.2.233e4aa6X9uCmK&sku_id=12000052763412620) ~0.5$
 - [PMS5003](https://aliexpress.ru/item/32772775425.html?sku_id=12000027208101193&spm=a2g2w.productlist.search_results.0.38b27b89w3cIQV) ~13$
 
+| Item | Description | Qty | Unit Price | Line Total | Source |
+|---|---|---|---|---|---|
+| PCB | Custom 2-layer PCB | 1 | $12.00 | $12.00 | [JLCPCB](https://jlcpcb.com/) |
+| ESP32-S3 DevKitC | MCU dev board | 1 | $5.00 | $5.00 | [AliExpress](https://aliexpress.ru/item/1005007820190456.html?sku_id=12000058365460928) |
+| 2.42" OLED | 128x64 SSD1309, I2C/SPI | 1 | $12.00 | $12.00 | [AliExpress](https://aliexpress.ru/item/4000002579405.html?sku_id=12000037978104081) |
+| SGP40 | VOC gas sensor module | 1 | $5.00 | $5.00 | [AliExpress](https://aliexpress.ru/item/1005008380047927.html?sku_id=12000056592935021) |
+| SCD41 | CO2 + temp/humidity sensor | 1 | $14.00 | $14.00 | [AliExpress](https://aliexpress.ru/item/1005010621571588.html?sku_id=12000053002326414) |
+| SHT41 | Temp/humidity sensor | 1 | $1.50 | $1.50 | [AliExpress](https://aliexpress.ru/item/1005008842184215.html?sku_id=12000057743184144) |
+| Li-ion battery | 500mAh 3.7V (502535) | 1 | $5.10 | $5.10 | [AliExpress](https://aliexpress.ru/item/1005006462526013.html?sku_id=12000037283411655) |
+| TP4056 | Li-ion charger module | 1 | $0.50 | $0.50 | [AliExpress](https://aliexpress.ru/item/32453058256.html?sku_id=12000052763412620) |
+| PMS5003 | Laser PM2.5 sensor | 1 | $13.20 | $13.20 | [AliExpress](https://aliexpress.ru/item/32772775425.html?sku_id=12000027208101193) |
+| **GRAND TOTAL** |  |  |  | **$68.30** |  |
+
 # Details:
 
 I've used this tutorial as a reference: https://howtomechatronics.com/projects/diy-air-quality-monitor-pm2-5-co2-voc-ozone-temp-hum-arduino-meter/
