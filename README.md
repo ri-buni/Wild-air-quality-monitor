@@ -26,16 +26,6 @@ Display looks like this:
 
 # BOM
 
-- [PCB](https://jlcpcb.com/) ~12$ for me
-- [ESP32 S3 devkitc](https://aliexpress.ru/item/1005007820190456.html?sku_id=12000058365460928&spm=a2g2w.productlist.search_results.2.540076b71PPoYp) ~3.7$
-- [2"42 OLED](https://aliexpress.ru/item/4000002579405.html?sku_id=12000037978104081&spm=a2g2w.productlist.search_results.0.30ada5b3CcquXc) ~7.25$
-- [sgp40](https://aliexpress.ru/item/1005008380047927.html?sku_id=12000056592935021&spm=a2g2w.productlist.search_results.0.65214052kKBEOa) ~4.6$
-- [scd41](https://aliexpress.ru/item/1005010621571588.html?sku_id=12000053002326414&spm=a2g2w.productlist.search_results.1.6427406cKYYdqG) ~15$
-- [sht41](https://aliexpress.ru/item/1005008842184215.html?sku_id=12000057743184144&spm=a2g2w.productlist.search_results.0.31de4062I4IYzH) ~2$
-- [500mAh 3.7V li ion battery](https://aliexpress.ru/item/1005006462526013.htmlshpMethod=Other&sku_id=12000037283411655&spm=a2g2w.productlist.search_results.0.7e9aae051GM2Nw) ~5.3$
-- [TP4056 battery charger](https://aliexpress.ru/item/32453058256.html?spm=a2g2w.cart.cart_split.2.233e4aa6X9uCmK&sku_id=12000052763412620) ~0.5$
-- [PMS5003](https://aliexpress.ru/item/32772775425.html?sku_id=12000027208101193&spm=a2g2w.productlist.search_results.0.38b27b89w3cIQV) ~13$
-
 | Item | Description | Qty | Unit Price | Line Total | Source |
 |---|---|---|---|---|---|
 | PCB | Custom 2-layer PCB | 1 | $12.00 | $12.00 | [JLCPCB](https://jlcpcb.com/) |
